@@ -42,6 +42,7 @@ public class GitHubAssignment2{
             //Enter 4 to exit
         }
         scan.close();
+        //TEST
     }
 }
 
